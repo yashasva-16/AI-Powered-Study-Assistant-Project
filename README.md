@@ -57,10 +57,6 @@ An AI-powered personal study assistant built using Python to help students manag
 * matplotlib
 * plyer
 
-## 📸 Screenshots:
-
-Include screenshots or a demo video of the project here.
-
 ## 📢 Feedback & Suggestions:
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/yashasva-singh-shekhawat-5304b435a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BFj%2F5GViUQ1a%2Byox4r6DBsw%3D%3D) or open an issue on the repository.
